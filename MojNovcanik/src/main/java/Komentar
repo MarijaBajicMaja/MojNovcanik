@@ -1,0 +1,8 @@
+Aplikacija nije ni upola gotova. Nije gotov ni nacrt. Najveci problem je nastao sa registracijom
+ i logovanjem. Trebalo bi podatke koji se unose sa tastature uporedjivati sa podacima koji ce nastaviti
+ postoje i kada se program ugasi i kada se ponovo pokrene. Nije mi najjasnije kako se povlace podaci iz banke,
+ osim ako aplikacija ne podrazumeva da napravimo i banku.
+ Pretpostavljam da treba da podrazumeva i prodavnicu.
+ Za sad sam pokusavala da napravim logovanje i registraciju da bude validno, ali mislim da bi svaki unos trebalo da se
+  proverava sa ispisima u Excel-u.
+
